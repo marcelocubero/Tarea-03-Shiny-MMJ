@@ -5,9 +5,9 @@ account: icnlkt-marcelocubero
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5090655
-bundleId: 5237060
+bundleId: 5237266
 url: https://marcelo-cubero.shinyapps.io/Tarea-03-Shiny-MMJ/
-when: 1636560884.22056
-lastSyncTime: 1636560884.22056
+when: 1636563737.07667
+lastSyncTime: 1636563737.07667
 asMultiple: FALSE
 asStatic: FALSE
