@@ -180,10 +180,10 @@ renderLeaflet({
       group = "Casos Activos",
       popup = paste0(
         "<strong>Cantón: </strong>",
-        casos_p$canton,
+       registros$canton,
         "<br>",
         "<strong>Casos activos: </strong>",
-        casos_p$activos
+        registros$activos
       )
     ) %>%
     addLegend(
@@ -203,10 +203,10 @@ renderLeaflet({
       group = "Casos Positivos",
       popup = paste0(
         "<strong>Cantón: </strong>",
-        casos_p$canton,
+        registros$canton,
         "<br>",
         "<strong>Casos positivos: </strong>",
-        casos_p$positivos
+        registros$positivos
       )
     ) %>%
     addLegend(
